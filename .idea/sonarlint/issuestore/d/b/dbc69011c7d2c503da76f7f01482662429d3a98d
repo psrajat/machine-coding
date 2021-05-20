@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñùîƒşÿÿÿÿ8’³ºÜ•/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(È›ùÿÿÿÿ8¸î¶Ü•/
+V
+java:S2864Z"4Iterate over the "entrySet" instead of the "keySet".(¾–íøÿÿÿÿÿ8‰ÅãÜ•/
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(â®£·8‰ÅãÜ•/
+[
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(Ã­ÇÑ8Ö®øÜ•/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ë¿²8ŠÀÜ•/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ş­ñ¬ùÿÿÿÿ8¦±¹Ü•/
+9
+java:S1116L"Remove this empty statement.(¼­¨İ8®´ãÜ•/

@@ -1,0 +1,15 @@
+
+u
+java:S1104"XMake intValidator a static final constant or non-public and provide accessors if needed.(æŞÚ8íÊÃÛ•/
+U
+java:S1444"3Make this "public static boolValidator" field final(Û‰‡ßÿÿÿÿÿ8Ş÷ÿÛ•/
+x
+java:S1104"[Make doubleValidator a static final constant or non-public and provide accessors if needed.(Ä¢ÙÕ8íÊÃÛ•/
+R
+java:S1444"5Make this "public static doubleValidator" field final(Ä¢ÙÕ8Ş÷ÿÛ•/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ëúïöûÿÿÿÿ8ò–€Ü•/
+{
+java:S1104"YMake boolValidator a static final constant or non-public and provide accessors if needed.(Û‰‡ßÿÿÿÿÿ8íÊÃÛ•/
+O
+java:S1444"2Make this "public static intValidator" field final(æŞÚ8Ş÷ÿÛ•/
